@@ -1,0 +1,1 @@
+CLASSPATH=/etc/hadoop/conf
